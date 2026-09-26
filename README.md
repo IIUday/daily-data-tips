@@ -6,7 +6,8 @@ Each tip is short enough to read in under a minute.
 | Topic | Tips |
 |---|---|
 | [SQL](sql.md) | 1 |
+| [pandas](pandas.md) | 1 |
 
-**Total: 1 tips**
+**Total: 2 tips**
 
 See also: [Pour Decisions](https://github.com/IIUday/Pour-Decisions), a vendor performance analysis project where a lot of these came from.
