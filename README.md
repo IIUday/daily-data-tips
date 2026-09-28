@@ -5,12 +5,12 @@ Each tip is short enough to read in under a minute.
 
 | Topic | Tips |
 |---|---|
-| [SQL](sql.md) | 2 |
+| [SQL](sql.md) | 3 |
 | [pandas](pandas.md) | 2 |
 | [Python](python.md) | 1 |
 | [Statistics](statistics.md) | 1 |
 | [Power BI](powerbi.md) | 1 |
 
-**Total: 7 tips**
+**Total: 8 tips**
 
 See also: [Pour Decisions](https://github.com/IIUday/Pour-Decisions), a vendor performance analysis project where a lot of these came from.
