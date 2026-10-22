@@ -11,3 +11,7 @@
 ### Use category dtype for repeated strings
 
 `df["city"] = df["city"].astype("category")` can shrink memory 10x when a column has few unique values.
+
+### Safer division
+
+`a / b.replace(0, np.nan)` avoids inf values when the denominator is zero.
