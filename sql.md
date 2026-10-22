@@ -11,3 +11,7 @@
 ### Filter groups with HAVING
 
 `WHERE` filters rows before grouping, `HAVING` filters after. `HAVING SUM(sales) > 1000` keeps only big groups.
+
+### COALESCE for missing values
+
+`COALESCE(discount, 0)` replaces NULL with 0 so arithmetic doesn't turn the whole result NULL.
